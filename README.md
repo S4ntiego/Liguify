@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/62663595/236618014-3ef70e2a-6aae-4acf-a320-6d54b93edf27.jpg" />
+<img src="https://user-images.githubusercontent.com/62663595/236621200-befd0d93-ccc8-42a1-8ca7-c78b108491ed.jpg" />
 
 Please note that the data for this project was collected during season 7 of the Teamfight Tactics game around the summer of 2022. Due to the complete obsolescence of data resulting from the game update system, and the lack of plans to commercialize the application, its "live" version is not available. Nevertheless, the existing code may be a great starting point for a new project as the game-related data can be fetched directly from the Data Dragon API created by the community, or manually updated locally before gathering fresh summoners and match data from the current season.
 
@@ -92,10 +92,14 @@ To run the project, you need to:
 # Gallery
 
 <div style={{'display':'flex'}}>
-<img src="https://user-images.githubusercontent.com/62663595/236618002-6f424b8b-6f0a-4cad-a4e2-cb165a18f3dd.jpg" />
-<img src="https://user-images.githubusercontent.com/62663595/236618014-3ef70e2a-6aae-4acf-a320-6d54b93edf27.jpg" />
-<img src="https://user-images.githubusercontent.com/62663595/236618029-2caadac2-124e-4523-8a11-1af72185dd88.jpg" />
-<img src="https://user-images.githubusercontent.com/62663595/236618052-e04eafa8-e9f2-46b0-bdf6-f56b1dbbc316.jpg" />
-<img src="https://user-images.githubusercontent.com/62663595/236618057-0e0e5578-a5ad-43ec-8a00-9e8cabacf07e.jpg" />
-<img src="https://user-images.githubusercontent.com/62663595/236618062-18121ad0-533f-4ed0-9096-73993ca9630f.jpg" />
+<img src="https://user-images.githubusercontent.com/62663595/236621201-677b2ba9-c786-4a85-af06-dfb40295c8ad.jpg" />
+<img src="https://user-images.githubusercontent.com/62663595/236621200-befd0d93-ccc8-42a1-8ca7-c78b108491ed.jpg" />
+<img src="https://user-images.githubusercontent.com/62663595/236621198-c368f422-c114-4046-ba47-bda8a4bdad00.jpg" />
+<img src="https://user-images.githubusercontent.com/62663595/236621197-43c87b75-dcb0-4ea0-9b3b-e443c86f824d.jpg" />
+<img src="https://user-images.githubusercontent.com/62663595/236621196-7de54922-822f-4142-b659-c4a4d746a23d.jpg" />
+<img src="https://user-images.githubusercontent.com/62663595/236621195-7a08c2c6-2f7a-4cfd-9666-c1463af7ece1.jpg" />
 </div>
+
+
+
+
