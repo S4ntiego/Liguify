@@ -1,0 +1,6 @@
+--> dodanie daty pozyskania meczu done
+--> dodanie daty pozyskania danych zawodnika (summonera)
+--> dodanie tabeli z timestampami i dodawanie timestampów przy ciągnieniu danych, mogą być kategorie timestamp/region/ranga DONE
+--> spróbować pociągnięcia jednocześnie dla eune i euw
+--> dodac jakis miernik challi itp done
+--> dodac informacje o randze do danego meczu done

@@ -1,0 +1,9 @@
+DELETE FROM match_participant_trait;
+DELETE FROM match_participant_champion;
+DELETE FROM match_participant_augment;
+DELETE FROM match_participant_champion_item;
+DELETE FROM match_participant;
+DELETE FROM summonersLeague;
+DELETE FROM matches;
+DELETE FROM summoners;
+DELETE FROM fetchTimestamp;
